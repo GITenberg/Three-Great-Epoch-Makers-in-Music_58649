@@ -1,11 +1,16 @@
 _repo: Three-Great-Epoch-Makers-in-Music_58649
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58649-h/images/cover.jpg
 creator:
   author:
     agent_name: Farnsworth, Edward
     gutenberg_agent_id: '50075'
     url: http://www.gutenberg.org/2009/agents/50075
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58649#Three-Great-Epoch-Makers-in-Music
 gutenberg_issued: '2019-01-07'
 gutenberg_type: Text
 identifiers:
